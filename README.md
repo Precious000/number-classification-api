@@ -1,4 +1,4 @@
-# number-classification-api
+# Number-classification-api
 Number Classification API
 API Overview
 
